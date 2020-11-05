@@ -1,3 +1,7 @@
+# Repo archived.
+
+This repository is no longer maintained.  See [alphagov/paas-cf_basic_auth_route_service](https://github.com/alphagov/paas-cf_basic_auth_route_service) for a fork that is maintained.
+
 # CloudFoundry Basic Auth Route Service
 
 This is a Proof-of-Concept CloudFoundry app that implements a
